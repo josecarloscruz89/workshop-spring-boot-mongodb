@@ -9,7 +9,7 @@ public class CommentDTO implements Serializable {
 	private String text;
 	private Date date;
 	private AuthorDTO author;
-	
+
 	public CommentDTO() {
 	}
 
